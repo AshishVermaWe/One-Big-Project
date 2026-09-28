@@ -1,0 +1,11 @@
+"Subscription id = feee7ef8-0934-43a6-8eaf-bdd65ade187a"
+"appId": "babf11c1-1834-42e5-993b-798ea683d67e",
+"displayName": "azure-cli-2026-09-28-00-29-44",
+"password": "ghF8Q~Wv~fNHTJ8sME8TcojYTnCMW2nqdf7JFcEi",
+"tenant": "f2428d6b-4811-43ff-beb5-12574aea96ce"
+
+# sh
+$env:ARM_CLIENT_ID="babf11c1-1834-42e5-993b-798ea683d67e"
+$env:ARM_CLIENT_SECRET="12345678-0000-0000-0000-000000000000"
+$env:ARM_TENANT_ID="ghF8Q~Wv~fNHTJ8sME8TcojYTnCMW2nqdf7JFcEi"
+$env:ARM_SUBSCRIPTION_ID="f2428d6b-4811-43ff-beb5-12574aea96ce"
