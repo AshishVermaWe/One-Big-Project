@@ -1,2 +1,2 @@
-location = "CanadaCentral
+location = "Canada East"
 prefix   = "OBP"
